@@ -1,6 +1,6 @@
 # je-ne-veux-pas-travailler
 J'ai besion de me reposer
-Je suis étudiant, j'habit en Chine.
+Je suis étudiant, j'habite en Chine.
 J'ai vingt-deux ans.
 Je ne veux pas travailler.
 Merci.
